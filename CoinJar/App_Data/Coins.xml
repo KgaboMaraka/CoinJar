@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Coins>
+  <Coin>
+    <Amount>15</Amount>
+    <Volume>0.5</Volume>
+  </Coin>
+  <Coin>
+    <Amount>115</Amount>
+    <Volume>20.5</Volume>
+  </Coin>
+</Coins>
