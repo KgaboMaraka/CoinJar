@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Coins>
   <Coin>
-    <Amount>15</Amount>
+    <Amount>1</Amount>
     <Volume>0.5</Volume>
   </Coin>
   <Coin>
-    <Amount>115</Amount>
-    <Volume>20.5</Volume>
+    <Amount>50</Amount>
+    <Volume>4.7</Volume>
+  </Coin>
+  <Coin>
+    <Amount>100</Amount>
+    <Volume>5.9</Volume>
   </Coin>
 </Coins>

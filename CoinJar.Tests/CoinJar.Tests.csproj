@@ -103,12 +103,8 @@
   <ItemGroup>
     <Compile Include="Controllers\CoinsControllerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Controllers\HomeControllerTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\CoinJar\App_Data\Coins.xml">
-      <Link>bin\Debug\App_Data\Coins.xml</Link>
-    </Content>
     <Content Include="App.config" />
     <Content Include="bin\Debug\App_Data\Coins.xml" />
   </ItemGroup>

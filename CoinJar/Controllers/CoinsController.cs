@@ -38,18 +38,12 @@ namespace CoinJar.Controllers
                 return Request.CreateResponse<Coin>(HttpStatusCode.Created, coin);
             else
                 return Request.CreateResponse<Coin>(HttpStatusCode.PreconditionFailed, coin);
-
         }
 
         // PUT: api/Coins/5
         public void Delete()
         {
             coinJarService.iCoinJar.Reset();
-
-            //var response = Request.<Coin>
-            //    (HttpStatusCode.Created);
-
-            //return response;
         }
     }
 }
